@@ -1,6 +1,7 @@
 Public Domain
 ==
 This work (Punjabi Bible (ਪੰਜਾਬੀ ਬਾਈਬਲ)) is free of known [copyright restrictions.](https://en.wikipedia.org/wiki/Copyright_law_of_India)
+
 [Read more about Copyright rules of India](http://copyright.gov.in/documents/copyrightrules1957.pdf)
 
 **Source PDF :**
